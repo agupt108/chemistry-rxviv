@@ -1,8 +1,8 @@
 ## Chemistry Lab Reports 
 
 ### ChemRxviv Projects
-My ChemRxviv (Chemistry Archive) ID link is: [https://orcid.org/0000-0001-7187-1119](url)!
-ChemRxviv is an "open access preprint archive for chemistry." 
+My ChemRxviv (Chemistry Archive) ID link is: [https://orcid.org/0000-0001-7187-1119](url)!<br/>
+ChemRxviv is an "open access preprint archive for chemistry." <br/>
 The American Chemical Society, Royal Society of Chemistry (UK) and German Chemical Society collaborated in the ChemRxviv Project.
 On ChemRxviv, I upload papers on experiments that I carried out.
 
