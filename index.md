@@ -1,32 +1,10 @@
-## Welcome to GitHub Pages
+## Chemistry Lab Reports 
 
-You can use the [editor on GitHub](https://github.com/agupt108/chemistry-rxviv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### ChemRxviv Projects
+My ChemRxviv (Chemistry Archive) ID link is: https://orcid.org/0000-0001-7187-1119!
+ChemRxviv is an "open access preprint archive for chemistry." 
+The American Chemical Society, Royal Society of Chemistry (UK) and German Chemical Society collaborated in the ChemRxviv Project.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
 
